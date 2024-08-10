@@ -29,7 +29,7 @@ function HomePage(props) {
 //     props: {
 //       meetups: DUMMY_MEETUPS
 //     }
-//   };;
+//   };
 // }
 
 export async function getStaticProps() {
